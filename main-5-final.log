@@ -1,0 +1,1685 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.19)  31 AUG 2024 10:48
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/saeed/Desktop/Survey/Saeed-Survey-3GPP-CIoT-RA/main-5-final.tex
+(c:/Users/saeed/Desktop/Survey/Saeed-Survey-3GPP-CIoT-RA/main-5-final.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-03-14>
+(IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen140
+\@IEEEtrantmpdimenB=\dimen141
+\@IEEEtrantmpdimenC=\dimen142
+\@IEEEtrantmpcountA=\count188
+\@IEEEtrantmpcountB=\count189
+\@IEEEtrantmpcountC=\count190
+\@IEEEtrantmptoksA=\toks17
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 5
+03.
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen143
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen144
+\CLASSINFOnormalsizeunitybaselineskip=\dimen145
+\IEEEnormaljot=\dimen146
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+\IEEEquantizedlength=\dimen147
+\IEEEquantizedlengthdiff=\dimen148
+\IEEEquantizedtextheightdiff=\dimen149
+\IEEEilabelindentA=\dimen150
+\IEEEilabelindentB=\dimen151
+\IEEEilabelindent=\dimen152
+\IEEEelabelindent=\dimen153
+\IEEEdlabelindent=\dimen154
+\IEEElabelindent=\dimen155
+\IEEEiednormlabelsep=\dimen156
+\IEEEiedmathlabelsep=\dimen157
+\IEEEiedtopsep=\skip48
+\c@section=\count191
+\c@subsection=\count192
+\c@subsubsection=\count193
+\c@paragraph=\count194
+\c@IEEEsubequation=\count195
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\c@figure=\count196
+\c@table=\count197
+\@IEEEeqnnumcols=\count198
+\@IEEEeqncolcnt=\count199
+\@IEEEsubeqnnumrollback=\count266
+\@IEEEquantizeheightA=\dimen158
+\@IEEEquantizeheightB=\dimen159
+\@IEEEquantizeheightC=\dimen160
+\@IEEEquantizeprevdepth=\dimen161
+\@IEEEquantizemultiple=\count267
+\@IEEEquantizeboxA=\box51
+\@IEEEtmpitemindent=\dimen162
+\IEEEPARstartletwidth=\dimen163
+\c@IEEEbiography=\count268
+\@IEEEtranrubishbin=\box52
+)
+** ATTENTION: Overriding command lockouts (line 2).
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip51
+\multirow@cntb=\count269
+\multirow@dima=\skip52
+\bigstrutjot=\dimen164
+)
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/latex/cite\cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip53
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen165
+))
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen166
+)
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count270
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count271
+\leftroot@=\count272
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count273
+\DOTSCASE@=\count274
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen167
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count275
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count276
+\dotsspace@=\muskip16
+\c@parentequation=\count277
+\dspbrk@lvl=\count278
+\tag@help=\toks19
+\row@=\count279
+\column@=\count280
+\maxfields@=\count281
+\andhelp@=\toks20
+\eqnshift@=\dimen168
+\alignsep@=\dimen169
+\tagshift@=\dimen170
+\tagwidth@=\dimen171
+\totwidth@=\dimen172
+\lineht@=\dimen173
+\@envbody=\toks21
+\multlinegap=\skip54
+\multlinetaggap=\skip55
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algorithmic.
+sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+ (C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks23
+)
+\c@ALC@unique=\count282
+\c@ALC@line=\count283
+\c@ALC@rem=\count284
+\c@ALC@depth=\count285
+\ALC@tlm=\skip56
+\algorithmicindent=\skip57
+)
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen174
+\Gin@req@width=\dimen175
+) (C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+) (C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen176
+\ar@mcellbox=\box55
+\extrarowheight=\dimen177
+\NC@list=\toks24
+\extratabsurround=\skip58
+\backup@length=\skip59
+\ar@cellbox=\box56
+)
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/latex/comment\comment.sty
+\CommentStream=\write3
+
+Excluding comment 'comment')
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul.sty
+Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
+
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul-ori.sty
+Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
+\SOUL@word=\toks25
+\SOUL@lasttoken=\toks26
+\SOUL@syllable=\toks27
+\SOUL@cmds=\toks28
+\SOUL@buffer=\toks29
+\SOUL@token=\toks30
+\SOUL@syllgoal=\dimen178
+\SOUL@syllwidth=\dimen179
+\SOUL@charkern=\dimen180
+\SOUL@hyphkern=\dimen181
+\SOUL@dimen=\dimen182
+\SOUL@dimeni=\dimen183
+\SOUL@minus=\count286
+\SOUL@comma=\count287
+\SOUL@apo=\count288
+\SOUL@grave=\count289
+\SOUL@spaceskip=\skip60
+\SOUL@ttwidth=\dimen184
+\SOUL@uldp=\dimen185
+\SOUL@ulht=\dimen186
+)
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)))
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2023/06/22 v3.6 ragged2e Package
+\CenteringLeftskip=\skip61
+\RaggedLeftLeftskip=\skip62
+\RaggedRightLeftskip=\skip63
+\CenteringRightskip=\skip64
+\RaggedLeftRightskip=\skip65
+\RaggedRightRightskip=\skip66
+\CenteringParfillskip=\skip67
+\RaggedLeftParfillskip=\skip68
+\RaggedRightParfillskip=\skip69
+\JustifyingParfillskip=\skip70
+\CenteringParindent=\skip71
+\RaggedLeftParindent=\skip72
+\RaggedRightParindent=\skip73
+\JustifyingParindent=\skip74
+)
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip75
+\enit@outerparindent=\dimen187
+\enit@toks=\toks31
+\enit@inbox=\box57
+\enit@count@id=\count290
+\enitdp@description=\count291
+)
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2024-03-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count292
+\l__pdf_internal_box=\box58
+)
+No file main-5-final.aux.
+\openout1 = `main-5-final.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+-- Lines per column: 58 (exact).
+
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count293
+\scratchdimen=\dimen188
+\scratchbox=\box59
+\nofMPsegments=\count294
+\nofMParguments=\count295
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count296
+\MPscratchDim=\dimen189
+\MPnumerator=\count297
+\makeMPintoPDFobject=\count298
+\everyMPtoPDFconversion=\toks33
+)
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 52.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 52.
+
+ (C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 52.
+
+
+(C:\Users\saeed\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+LaTeX Warning: Citation `andreev2015understanding' on page 1 undefined on input
+ line 86.
+
+
+LaTeX Warning: Citation `itu-t_overview_2012_Y.2060' on page 1 undefined on inp
+ut line 87.
+
+
+LaTeX Warning: Citation `transforma_insights_current_nodate' on page 1 undefine
+d on input line 89.
+
+
+LaTeX Warning: Citation `chettri_comprehensive_2020_1' on page 1 undefined on i
+nput line 90.
+
+
+LaTeX Warning: Citation `herrero_fundamentals_2021' on page 1 undefined on inpu
+t line 93.
+
+
+LaTeX Warning: Reference `fig:IoT_components' on page 1 undefined on input line
+ 95.
+
+<Pictures/IoT Components.png, id=1, 953.5625pt x 895.345pt>
+File: Pictures/IoT Components.png Graphic file (type png)
+<use Pictures/IoT Components.png>
+Package pdftex.def Info: Pictures/IoT Components.png  used on input line 102.
+(pdftex.def)             Requested size: 251.99445pt x 256.07765pt.
+
+LaTeX Warning: Citation `herrero_fundamentals_2021' on page 1 undefined on inpu
+t line 103.
+
+
+LaTeX Warning: Citation `alam2013evolution' on page 1 undefined on input line 1
+08.
+
+
+LaTeX Warning: Reference `fig:M2M_vs_IoT' on page 1 undefined on input line 115
+.
+
+<Pictures/M2M to IoT.png, id=3, 1133.23375pt x 446.66875pt>
+File: Pictures/M2M to IoT.png Graphic file (type png)
+<use Pictures/M2M to IoT.png>
+Package pdftex.def Info: Pictures/M2M to IoT.png  used on input line 117.
+(pdftex.def)             Requested size: 251.99242pt x 142.26216pt.
+
+LaTeX Warning: Citation `liberg_cellular_2019' on page 1 undefined on input lin
+e 119.
+
+[1{C:/Users/saeed/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/sa
+eed/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}
+
+
+ <./Pictures/IoT Components.png>]
+
+LaTeX Warning: Citation `itu-t_overview_2012_Y.2060' on page 2 undefined on inp
+ut line 125.
+
+
+LaTeX Warning: Citation `itu-t_overview_2012_Y.2060' on page 2 undefined on inp
+ut line 138.
+
+
+LaTeX Warning: Citation `3gpp_service_nodate_22.368' on page 2 undefined on inp
+ut line 138.
+
+
+LaTeX Warning: Reference `fig:CIoT_segments' on page 2 undefined on input line 
+155.
+
+
+LaTeX Warning: Citation `zaidi_cellular_2020' on page 2 undefined on input line
+ 156.
+
+<Pictures/Cellular IoT segments.jpg.jpg, id=13, 1505.625pt x 847.165pt>
+File: Pictures/Cellular IoT segments.jpg.jpg Graphic file (type jpg)
+<use Pictures/Cellular IoT segments.jpg.jpg>
+Package pdftex.def Info: Pictures/Cellular IoT segments.jpg.jpg  used on input 
+line 175.
+(pdftex.def)             Requested size: 252.0pt x 141.79276pt.
+
+LaTeX Warning: Citation `kuhlins_cellular_2020' on page 2 undefined on input li
+ne 176.
+
+
+LaTeX Warning: Reference `sec:2-IoT-Connectivity' on page 2 undefined on input 
+line 189.
+
+
+LaTeX Warning: Reference `sec:3-RedCap-Intro' on page 2 undefined on input line
+ 190.
+
+
+LaTeX Warning: Reference `sec:4-complexity-reduction' on page 2 undefined on in
+put line 191.
+
+
+LaTeX Warning: Reference `sec:6-redcap-impact' on page 2 undefined on input lin
+e 191.
+
+
+LaTeX Warning: Reference `sec:6-redcap-impact' on page 2 undefined on input lin
+e 192.
+
+
+LaTeX Warning: Reference `sec:7-beyond-redcap17' on page 2 undefined on input l
+ine 193.
+
+[2 <./Pictures/M2M to IoT.png>]
+
+LaTeX Warning: Citation `vaezi_cellular_2022_2' on page 3 undefined on input li
+ne 210.
+
+
+LaTeX Warning: Citation `xu_narrowband_2018_3' on page 3 undefined on input lin
+e 218.
+
+
+LaTeX Warning: Citation `vaezi_cellular_2022_2' on page 3 undefined on input li
+ne 224.
+
+
+LaTeX Warning: Citation `beyene_nb-iot_2017' on page 3 undefined on input line 
+225.
+
+
+LaTeX Warning: Citation `akpakwu2017survey' on page 3 undefined on input line 2
+34.
+
+
+LaTeX Warning: Citation `hwang_survey_2019' on page 3 undefined on input line 2
+37.
+
+
+LaTeX Warning: Reference `fig:nb-iot' on page 3 undefined on input line 239.
+
+<Pictures/NB-IoT example.png, id=22, 750.805pt x 572.1375pt>
+File: Pictures/NB-IoT example.png Graphic file (type png)
+<use Pictures/NB-IoT example.png>
+Package pdftex.def Info: Pictures/NB-IoT example.png  used on input line 244.
+(pdftex.def)             Requested size: 252.0pt x 192.02736pt.
+
+LaTeX Warning: Citation `ayoub2018internet' on page 3 undefined on input line 2
+56.
+
+
+LaTeX Warning: Citation `ogbodo2022survey' on page 3 undefined on input line 25
+6.
+
+
+LaTeX Warning: Citation `raza2017low' on page 3 undefined on input line 256.
+
+
+LaTeX Warning: Citation `augustin2016study' on page 3 undefined on input line 2
+56.
+
+
+LaTeX Warning: Citation `ding_iot_2020' on page 3 undefined on input line 257.
+
+[3 <./Pictures/Cellular IoT segments.jpg.jpg> <./Pictures/NB-IoT example.png>]
+
+LaTeX Warning: Citation `LoRaWAN_spec' on page 4 undefined on input line 264.
+
+
+LaTeX Warning: Citation `seller_low_2016' on page 4 undefined on input line 265
+.
+
+
+LaTeX Warning: Reference `fig:LoRaWAN-stack' on page 4 undefined on input line 
+265.
+
+
+LaTeX Warning: Citation `LoRaWAN_spec' on page 4 undefined on input line 265.
+
+
+LaTeX Warning: Citation `sforza_communications_2013' on page 4 undefined on inp
+ut line 266.
+
+
+LaTeX Warning: Citation `vangelista2017frequency' on page 4 undefined on input 
+line 268.
+
+<Pictures/LoRaWAN_stack.png, id=27, 1417.295pt x 691.58376pt>
+File: Pictures/LoRaWAN_stack.png Graphic file (type png)
+<use Pictures/LoRaWAN_stack.png>
+Package pdftex.def Info: Pictures/LoRaWAN_stack.png  used on input line 272.
+(pdftex.def)             Requested size: 252.0pt x 122.96011pt.
+
+LaTeX Warning: Citation `LoRaWAN_semtech' on page 4 undefined on input line 283
+.
+
+
+LaTeX Warning: Citation `haxhibeqiri2018survey' on page 4 undefined on input li
+ne 288.
+
+
+LaTeX Warning: Citation `vangelista2017frequency' on page 4 undefined on input 
+line 289.
+
+
+LaTeX Warning: Citation `adelantado2017understanding' on page 4 undefined on in
+put line 301.
+
+
+LaTeX Warning: Citation `LoRaWAN_spec' on page 4 undefined on input line 302.
+
+
+LaTeX Warning: Citation `boisgueneSurveyNBIoTDownlink2017' on page 4 undefined 
+on input line 303.
+
+
+LaTeX Warning: Citation `LoRaWAN_spec' on page 4 undefined on input line 308.
+
+
+LaTeX Warning: Citation `ding_iot_2020' on page 4 undefined on input line 310.
+
+
+LaTeX Warning: Citation `LoRaWAN_spec' on page 4 undefined on input line 317.
+
+
+LaTeX Warning: Citation `haxhibeqiri2018survey' on page 4 undefined on input li
+ne 319.
+
+
+LaTeX Warning: Citation `ITU-T-Y.4480' on page 4 undefined on input line 320.
+
+
+LaTeX Warning: Citation `grignon_unabiz_2022' on page 4 undefined on input line
+ 327.
+
+
+LaTeX Warning: Citation `margelis2015low' on page 4 undefined on input line 330
+.
+
+
+LaTeX Warning: Citation `kalfus2016ultra' on page 4 undefined on input line 332
+.
+
+
+LaTeX Warning: Citation `raza2017low' on page 4 undefined on input line 333.
+
+
+LaTeX Warning: Citation `augustin2016study' on page 4 undefined on input line 3
+34.
+
+
+LaTeX Warning: Citation `ding_iot_2020' on page 4 undefined on input line 338.
+
+
+LaTeX Warning: Citation `kalfus2016ultra' on page 4 undefined on input line 339
+.
+
+
+LaTeX Warning: Citation `mekki2019comparative' on page 4 undefined on input lin
+e 340.
+
+
+LaTeX Warning: Citation `do2014interference' on page 4 undefined on input line 
+341.
+
+
+LaTeX Warning: Citation `margelis2015low' on page 4 undefined on input line 342
+.
+
+
+LaTeX Warning: Citation `augustin2016study' on page 4 undefined on input line 3
+43.
+
+
+LaTeX Warning: Citation `kalfus2016ultra' on page 4 undefined on input line 344
+.
+
+
+LaTeX Warning: Citation `margelis2015low' on page 4 undefined on input line 345
+.
+
+
+LaTeX Warning: Citation `noauthor_what_nodate' on page 4 undefined on input lin
+e 346.
+
+
+LaTeX Warning: Citation `augustin2016study' on page 4 undefined on input line 3
+47.
+
+
+LaTeX Warning: Citation `vertesMethodTransmittingUseful2017' on page 4 undefine
+d on input line 348.
+
+[4 <./Pictures/LoRaWAN_stack.png>]
+
+LaTeX Warning: Citation `noauthor_how_nodate' on page 5 undefined on input line
+ 354.
+
+
+LaTeX Warning: Citation `hwang_survey_2019' on page 5 undefined on input line 3
+55.
+
+
+LaTeX Warning: Citation `accurso_exploring_2021' on page 5 undefined on input l
+ine 358.
+
+
+LaTeX Warning: Citation `hwang_survey_2019' on page 5 undefined on input line 3
+63.
+
+
+LaTeX Warning: Citation `TR_22.868' on page 5 undefined on input line 368.
+
+
+LaTeX Warning: Citation `benhiba_comparative_2018' on page 5 undefined on input
+ line 369.
+
+
+LaTeX Warning: Citation `TR_36.888' on page 5 undefined on input line 374.
+
+
+LaTeX Warning: Citation `liberg_cellular_2019' on page 5 undefined on input lin
+e 377.
+
+
+LaTeX Warning: Citation `TR_45.820' on page 5 undefined on input line 379.
+
+
+LaTeX Warning: Citation `liberg_cellular_2019' on page 5 undefined on input lin
+e 381.
+
+
+LaTeX Warning: Citation `adelantado2017understanding' on page 5 undefined on in
+put line 382.
+
+
+LaTeX Warning: Citation `noauthor_mobile_nodate' on page 5 undefined on input l
+ine 383.
+
+
+LaTeX Warning: Citation `benhiba_comparative_2018' on page 5 undefined on input
+ line 390.
+
+
+LaTeX Warning: Citation `rico2016overview' on page 5 undefined on input line 39
+2.
+
+
+LaTeX Warning: Citation `ding_iot_2020' on page 5 undefined on input line 394.
+
+
+LaTeX Warning: Citation `sharma2019toward' on page 5 undefined on input line 39
+5.
+
+
+LaTeX Warning: Citation `liberg_cellular_2019' on page 5 undefined on input lin
+e 396.
+
+
+LaTeX Warning: Citation `wang_information_2021' on page 5 undefined on input li
+ne 397.
+
+
+LaTeX Warning: Citation `GSM_white_2018' on page 5 undefined on input line 398.
+
+
+
+LaTeX Warning: Citation `raza2017low' on page 5 undefined on input line 398.
+
+
+LaTeX Warning: Citation `xu_narrowband_2018_3' on page 5 undefined on input lin
+e 403.
+
+
+LaTeX Warning: Citation `herrero_fundamentals_2021' on page 5 undefined on inpu
+t line 404.
+
+
+LaTeX Warning: Citation `foubert2020long' on page 5 undefined on input line 405
+.
+
+
+LaTeX Warning: Citation `foubert2020long' on page 5 undefined on input line 407
+.
+
+
+LaTeX Warning: Citation `chaudhari2020lpwan' on page 5 undefined on input line 
+409.
+
+[5]
+
+LaTeX Warning: Citation `TR_45.820' on page 6 undefined on input line 413.
+
+
+LaTeX Warning: Citation `ding_iot_2020' on page 6 undefined on input line 414.
+
+
+LaTeX Warning: Citation `liberg_cellular_2019' on page 6 undefined on input lin
+e 416.
+
+
+LaTeX Warning: Citation `chaudhari2020lpwan' on page 6 undefined on input line 
+417.
+
+
+LaTeX Warning: Citation `chen2017narrow' on page 6 undefined on input line 417.
+
+
+
+LaTeX Warning: Citation `chettri_comprehensive_2020_1' on page 6 undefined on i
+nput line 417.
+
+
+LaTeX Warning: Reference `fig:NB-IoT-deployments' on page 6 undefined on input 
+line 423.
+
+<Pictures/Deployments supported by NB-IoT.png, id=37, 1550.79375pt x 759.33687p
+t>
+File: Pictures/Deployments supported by NB-IoT.png Graphic file (type png)
+<use Pictures/Deployments supported by NB-IoT.png>
+Package pdftex.def Info: Pictures/Deployments supported by NB-IoT.png  used on 
+input line 427.
+(pdftex.def)             Requested size: 252.0pt x 123.38498pt.
+
+LaTeX Warning: Citation `hwang_survey_2019' on page 6 undefined on input line 4
+31.
+
+
+LaTeX Warning: Citation `raza2017low' on page 6 undefined on input line 431.
+
+
+LaTeX Warning: Citation `poursafar2017long' on page 6 undefined on input line 4
+32.
+
+
+LaTeX Warning: Citation `ding_iot_2020' on page 6 undefined on input line 433.
+
+
+LaTeX Warning: Citation `rico2016overview' on page 6 undefined on input line 43
+4.
+
+
+LaTeX Warning: Citation `mekki2019comparative' on page 6 undefined on input lin
+e 435.
+
+
+LaTeX Warning: Citation `sharma2019toward' on page 6 undefined on input line 43
+6.
+
+
+LaTeX Warning: Citation `accurso_exploring_2021' on page 6 undefined on input l
+ine 436.
+
+
+LaTeX Warning: Citation `foubert2020long' on page 6 undefined on input line 437
+.
+
+
+LaTeX Warning: Citation `rico2016overview' on page 6 undefined on input line 43
+7.
+
+
+LaTeX Warning: Citation `vaezi_cellular_2022_2' on page 6 undefined on input li
+ne 438.
+
+
+LaTeX Warning: Citation `wang2017primer' on page 6 undefined on input line 439.
+
+
+
+LaTeX Warning: Citation `chen2017narrow' on page 6 undefined on input line 439.
+
+
+
+LaTeX Warning: Citation `TR_45.820' on page 6 undefined on input line 444.
+
+
+LaTeX Warning: Citation `poursafar2017long' on page 6 undefined on input line 4
+45.
+
+
+LaTeX Warning: Citation `chaudhari2020lpwan' on page 6 undefined on input line 
+446.
+
+
+LaTeX Warning: Citation `herrero_fundamentals_2021' on page 6 undefined on inpu
+t line 446.
+
+
+LaTeX Warning: Citation `liberg_cellular_2019' on page 6 undefined on input lin
+e 447.
+
+
+LaTeX Warning: Citation `raza2017low' on page 6 undefined on input line 448.
+
+
+LaTeX Warning: Citation `hwang_survey_2019' on page 6 undefined on input line 4
+49.
+
+
+LaTeX Warning: Citation `chaudhari2020lpwan' on page 6 undefined on input line 
+449.
+
+
+LaTeX Warning: Citation `poursafar2017long' on page 6 undefined on input line 4
+50.
+
+
+LaTeX Warning: Citation `foubert2020long' on page 6 undefined on input line 451
+.
+
+
+LaTeX Warning: Citation `noauthor_complete_2019' on page 6 undefined on input l
+ine 452.
+
+
+LaTeX Warning: Reference `table:LPWA-technologies' on page 6 undefined on input
+ line 454.
+
+
+LaTeX Warning: Reference `table:LPWA-technologies' on page 6 undefined on input
+ line 455.
+
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 504.
+
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 504.
+
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 504.
+
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 504.
+
+
+LaTeX Warning: Citation `itu-r_minimum_2017_M.2410-0' on page 6 undefined on in
+put line 533.
+
+
+LaTeX Warning: Citation `3gpp_study_nodate_38.824' on page 6 undefined on input
+ line 539.
+
+[6 <./Pictures/Deployments supported by NB-IoT.png>]
+
+LaTeX Warning: Reference `fig:redcap-spider' on page 7 undefined on input line 
+560.
+
+<Pictures/Radar Chart RedCap.png, id=42, 622.325pt x 557.08125pt>
+File: Pictures/Radar Chart RedCap.png Graphic file (type png)
+<use Pictures/Radar Chart RedCap.png>
+Package pdftex.def Info: Pictures/Radar Chart RedCap.png  used on input line 56
+5.
+(pdftex.def)             Requested size: 252.0pt x 225.58267pt.
+
+LaTeX Warning: Reference `table:redcap-requirements' on page 7 undefined on inp
+ut line 577.
+
+
+LaTeX Warning: Citation `3gpp_study_2021_38.875' on page 7 undefined on input l
+ine 577.
+
+
+LaTeX Warning: Reference `table:redcap-requirements' on page 7 undefined on inp
+ut line 578.
+
+
+LaTeX Warning: Citation `3gpp_framework_2020_R2-2009618' on page 7 undefined on
+ input line 579.
+
+[7 <./Pictures/Radar Chart RedCap.png>]
+
+LaTeX Warning: Citation `3gpp_study_2021_38.875' on page 8 undefined on input l
+ine 585.
+
+
+LaTeX Warning: Citation `3gpp_study_nodate-1_37.910' on page 8 undefined on inp
+ut line 617.
+
+
+LaTeX Warning: Citation `3gpp_study_2021_38.875' on page 8 undefined on input l
+ine 623.
+
+
+LaTeX Warning: Citation `3gpp_nr_nodate-4_38.306' on page 8 undefined on input 
+line 624.
+
+
+LaTeX Warning: Citation `3gpp_nr_nodate-3_38.331' on page 8 undefined on input 
+line 624.
+
+
+LaTeX Warning: Citation `3gpp_study_2021_38.875' on page 8 undefined on input l
+ine 644.
+
+
+LaTeX Warning: Citation `3gpp_fl_2022_R1-2009293' on page 8 undefined on input 
+line 661.
+
+
+LaTeX Warning: Citation `3gpp_nr_nodate-2_38.101-1' on page 8 undefined on inpu
+t line 675.
+
+
+LaTeX Warning: Citation `3gpp_nr_2022-7_38.101-2' on page 8 undefined on input 
+line 675.
+
+
+LaTeX Warning: Citation `3gpp_evolved_nodate_36.211' on page 8 undefined on inp
+ut line 703.
+
+
+LaTeX Warning: Citation `3gpp_study_2021_38.875' on page 8 undefined on input l
+ine 706.
+
+[8]
+
+LaTeX Warning: Citation `ratasuk_reduced_2021' on page 9 undefined on input lin
+e 715.
+
+
+LaTeX Warning: Citation `3gpp_study_2021_38.875' on page 9 undefined on input l
+ine 751.
+
+
+LaTeX Warning: Reference `table:redcap-features' on page 9 undefined on input l
+ine 753.
+
+[9]
+
+LaTeX Warning: Citation `3gpp_study_2019_38.840' on page 10 undefined on input 
+line 796.
+
+
+LaTeX Warning: Citation `veedu_toward_2022_arXiv:2203.05634' on page 10 undefin
+ed on input line 796.
+
+
+LaTeX Warning: Citation `ratasuk_reduced_2021' on page 10 undefined on input li
+ne 800.
+
+
+LaTeX Warning: Citation `ratasuk_reduced_2021' on page 10 undefined on input li
+ne 804.
+
+
+LaTeX Warning: Citation `3gpp_release_2019_21.915' on page 10 undefined on inpu
+t line 812.
+
+
+LaTeX Warning: Citation `TS_36.321' on page 10 undefined on input line 818.
+
+
+LaTeX Warning: Citation `TS_36.304' on page 10 undefined on input line 818.
+
+
+LaTeX Warning: Reference `fig:5g-drx' on page 10 undefined on input line 819.
+
+
+LaTeX Warning: Citation `paris2022adaptive' on page 10 undefined on input line 
+821.
+
+
+LaTeX Warning: Citation `koc2014device' on page 10 undefined on input line 822.
+
+
+<Pictures/Schematic diagram of DRX.png, id=56, 1100.11pt x 347.2975pt>
+File: Pictures/Schematic diagram of DRX.png Graphic file (type png)
+<use Pictures/Schematic diagram of DRX.png>
+Package pdftex.def Info: Pictures/Schematic diagram of DRX.png  used on input l
+ine 826.
+(pdftex.def)             Requested size: 252.0pt x 79.55348pt.
+
+LaTeX Warning: Citation `3gpp_nr_nodate-3_38.331' on page 10 undefined on input
+ line 833.
+
+
+LaTeX Warning: Citation `TS_38.321' on page 10 undefined on input line 833.
+
+
+LaTeX Warning: Reference `fig:basic-drx-operation' on page 10 undefined on inpu
+t line 838.
+
+<Pictures/Basic DRX Operation.png, id=57, 1499.6025pt x 507.8975pt>
+File: Pictures/Basic DRX Operation.png Graphic file (type png)
+<use Pictures/Basic DRX Operation.png>
+Package pdftex.def Info: Pictures/Basic DRX Operation.png  used on input line 8
+43.
+(pdftex.def)             Requested size: 252.0pt x 85.34944pt.
+
+LaTeX Warning: Reference `fig:basic-drx-operation' on page 10 undefined on inpu
+t line 849.
+
+
+LaTeX Warning: Reference `fig:5g-drx-InactivityTimer' on page 10 undefined on i
+nput line 853.
+
+<Pictures/Schematic diagram of drx-InactivityTimer.png, id=58, 1248.665pt x 429
+.605pt>
+File: Pictures/Schematic diagram of drx-InactivityTimer.png Graphic file (type 
+png)
+<use Pictures/Schematic diagram of drx-InactivityTimer.png>
+Package pdftex.def Info: Pictures/Schematic diagram of drx-InactivityTimer.png 
+ used on input line 856.
+(pdftex.def)             Requested size: 252.0pt x 86.69954pt.
+[10 <./Pictures/Schematic diagram of DRX.png> <./Pictures/Basic DRX Operation.p
+ng>]
+
+LaTeX Warning: Reference `fig:5g-drx-ShortCycleTimer' on page 11 undefined on i
+nput line 863.
+
+<Pictures/Schematic diagram of drx-ShortCycleTimer.png, id=63, 1365.1pt x 786.9
+4pt>
+File: Pictures/Schematic diagram of drx-ShortCycleTimer.png Graphic file (type 
+png)
+<use Pictures/Schematic diagram of drx-ShortCycleTimer.png>
+Package pdftex.def Info: Pictures/Schematic diagram of drx-ShortCycleTimer.png 
+ used on input line 866.
+(pdftex.def)             Requested size: 252.0pt x 145.26941pt.
+
+LaTeX Warning: Citation `tung2015analysis' on page 11 undefined on input line 8
+74.
+
+
+LaTeX Warning: Citation `bontu2009drx' on page 11 undefined on input line 875.
+
+
+LaTeX Warning: Citation `tseng2015delay' on page 11 undefined on input line 876
+.
+
+
+LaTeX Warning: Citation `agiwal2022enhanced' on page 11 undefined on input line
+ 877.
+
+
+LaTeX Warning: Citation `kumar2021analytical' on page 11 undefined on input lin
+e 877.
+
+
+LaTeX Warning: Reference `fig:5g-drx-ShortCycleTimer' on page 11 undefined on i
+nput line 877.
+
+
+LaTeX Warning: Citation `TS_38.321' on page 11 undefined on input line 881.
+
+
+LaTeX Warning: Citation `awada2017radio' on page 11 undefined on input line 881
+.
+
+
+LaTeX Warning: Citation `verma2019energy' on page 11 undefined on input line 88
+2.
+
+
+LaTeX Warning: Citation `agiwal2022enhanced' on page 11 undefined on input line
+ 885.
+
+
+LaTeX Warning: Citation `lauridsen2021study' on page 11 undefined on input line
+ 887.
+
+
+LaTeX Warning: Citation `3gpp_nr_2022-1_38.213' on page 11 undefined on input l
+ine 888.
+
+
+LaTeX Warning: Citation `li_radio_2022' on page 11 undefined on input line 889.
+
+
+
+LaTeX Warning: Citation `esswie_power_2022' on page 11 undefined on input line 
+890.
+
+
+LaTeX Warning: Citation `TS_38.321' on page 11 undefined on input line 891.
+
+
+LaTeX Warning: Citation `3gpp_nr_2022-10_38.304' on page 11 undefined on input 
+line 892.
+
+
+LaTeX Warning: Citation `ramazanali2017modeling' on page 11 undefined on input 
+line 893.
+
+
+LaTeX Warning: Citation `3gpp_nr_2022-10_38.304' on page 11 undefined on input 
+line 895.
+
+
+LaTeX Warning: Citation `kumar2021analytical' on page 11 undefined on input lin
+e 906.
+
+
+LaTeX Warning: Citation `3gpp_nr_nodate-3_38.331' on page 11 undefined on input
+ line 907.
+
+
+LaTeX Warning: Citation `3gpp_nr_nodate-3_38.331' on page 11 undefined on input
+ line 908.
+
+
+LaTeX Warning: Citation `3gpp_nr_2022-10_38.304' on page 11 undefined on input 
+line 911.
+
+[11 <./Pictures/Schematic diagram of drx-InactivityTimer.png> <./Pictures/Schem
+atic diagram of drx-ShortCycleTimer.png>]
+
+LaTeX Warning: Citation `ratasuk_reduced_2021' on page 12 undefined on input li
+ne 914.
+
+
+LaTeX Warning: Citation `TS_36.304' on page 12 undefined on input line 916.
+
+
+LaTeX Warning: Citation `3gpp_study_2021_38.875' on page 12 undefined on input 
+line 920.
+
+
+LaTeX Warning: Citation `veedu_toward_2022_arXiv:2203.05634' on page 12 undefin
+ed on input line 924.
+
+
+LaTeX Warning: Citation `3gpp_study_2021_38.875' on page 12 undefined on input 
+line 926.
+
+
+LaTeX Warning: Citation `veedu_toward_2022_arXiv:2203.05634' on page 12 undefin
+ed on input line 927.
+
+
+LaTeX Warning: Citation `3gpp_5gs_2022_SP-220803' on page 12 undefined on input
+ line 928.
+
+
+LaTeX Warning: Citation `3gpp_nr_2022-11_38.133' on page 12 undefined on input 
+line 944.
+
+
+LaTeX Warning: Citation `kumar2021analytical' on page 12 undefined on input lin
+e 949.
+
+
+LaTeX Warning: Citation `3gpp_study_2019_38.840' on page 12 undefined on input 
+line 955.
+
+
+LaTeX Warning: Citation `3gpp_study_nodate-4_38.804' on page 12 undefined on in
+put line 961.
+
+
+LaTeX Warning: Citation `3gpp_nr_2022-10_38.304' on page 12 undefined on input 
+line 972.
+
+
+LaTeX Warning: Reference `equ:low-mobility-criterion' on page 12 undefined on i
+nput line 978.
+
+
+LaTeX Warning: Citation `veedu_toward_2022_arXiv:2203.05634' on page 12 undefin
+ed on input line 980.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 970--981
+
+ []
+
+
+LaTeX Warning: Citation `3gpp_nr_2022-10_38.304' on page 12 undefined on input 
+line 1000.
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 1011--1012
+
+ []
+
+
+LaTeX Warning: Citation `3gpp_ue_2019_R2-1912335' on page 13 undefined on input
+ line 1015.
+
+
+LaTeX Warning: Citation `3gpp_rrm_2019_R2-1912334' on page 13 undefined on inpu
+t line 1015.
+
+
+LaTeX Warning: Citation `1912531_R2-1912531' on page 13 undefined on input line
+ 1015.
+
+
+LaTeX Warning: Reference `fig:rrm-relaxation' on page 13 undefined on input lin
+e 1022.
+
+
+LaTeX Warning: Citation `3gpp_nr_2022-11_38.133' on page 13 undefined on input 
+line 1022.
+
+<Pictures/RRM measurement relaxation.png, id=71, 752.8125pt x 505.89pt>
+File: Pictures/RRM measurement relaxation.png Graphic file (type png)
+<use Pictures/RRM measurement relaxation.png>
+Package pdftex.def Info: Pictures/RRM measurement relaxation.png  used on input
+ line 1026.
+(pdftex.def)             Requested size: 252.0pt x 169.3449pt.
+
+LaTeX Warning: Citation `3gpp_study_2021_38.875' on page 13 undefined on input 
+line 1032.
+
+
+LaTeX Warning: Citation `3gpp_tp_2021_R2-2100459' on page 13 undefined on input
+ line 1032.
+
+
+LaTeX Warning: Citation `3gpp_further_2020_R2-2009116' on page 13 undefined on 
+input line 1033.
+
+
+LaTeX Warning: Citation `3gpp_redcap_2020_R2-2009620' on page 13 undefined on i
+nput line 1034.
+
+
+LaTeX Warning: Reference `sec:4-complexity-reduction' on page 13 undefined on i
+nput line 1044.
+
+
+LaTeX Warning: Reference `sec:5-power-saving' on page 13 undefined on input lin
+e 1044.
+
+
+LaTeX Warning: Citation `3gpp_study_2021_38.875' on page 13 undefined on input 
+line 1049.
+
+
+LaTeX Warning: Citation `moloudi_coverage_2021' on page 13 undefined on input l
+ine 1063.
+
+
+LaTeX Warning: Citation `ratasuk_reduced_2021' on page 13 undefined on input li
+ne 1069.
+
+
+LaTeX Warning: Citation `3gpp_study_2021_38.875' on page 13 undefined on input 
+line 1070.
+
+
+LaTeX Warning: Citation `3gpp_study_nodate-3_38.830' on page 13 undefined on in
+put line 1076.
+
+
+LaTeX Warning: Citation `3gpp_study_nodate-3_38.830' on page 13 undefined on in
+put line 1079.
+
+
+LaTeX Warning: Citation `moloudi_coverage_2021' on page 13 undefined on input l
+ine 1082.
+
+
+LaTeX Warning: Reference `table:coverage-evaluation-physical-channels' on page 
+13 undefined on input line 1084.
+
+
+LaTeX Warning: Citation `3gpp_study_2021_38.875' on page 13 undefined on input 
+line 1084.
+
+
+Overfull \hbox (6.19138pt too wide) in paragraph at lines 1092--1092
+[]|\OT1/ptm/m/n/8 PRACH| 
+ []
+
+
+Overfull \hbox (0.73534pt too wide) in paragraph at lines 1094--1094
+[]|\OT1/ptm/m/n/8 PBCH| 
+ []
+
+
+Underfull \hbox (badness 1762) in paragraph at lines 1094--1095
+\OT1/ptm/m/n/8 sages and the pri-mary/secondary syn-chro-niza-tion sig-nals
+ []
+
+
+Overfull \hbox (6.5113pt too wide) in paragraph at lines 1096--1096
+[]|\OT1/ptm/m/n/8 PDCCH| 
+ []
+
+
+Overfull \hbox (5.62332pt too wide) in paragraph at lines 1098--1098
+[]|\OT1/ptm/m/n/8 PDSCH| 
+ []
+
+
+Overfull \hbox (6.5113pt too wide) in paragraph at lines 1100--1100
+[]|\OT1/ptm/m/n/8 PUCCH| 
+ []
+
+
+Overfull \hbox (5.62332pt too wide) in paragraph at lines 1102--1102
+[]|\OT1/ptm/m/n/8 PUSCH| 
+ []
+
+[13 <./Pictures/RRM measurement relaxation.png>]
+
+LaTeX Warning: Citation `3gpp_study_nodate-3_38.830' on page 14 undefined on in
+put line 1115.
+
+
+LaTeX Warning: Reference `table:scenarios-parameters' on page 14 undefined on i
+nput line 1115.
+
+
+Overfull \hbox (4.43335pt too wide) in paragraph at lines 1119--1153
+ [][] 
+ []
+
+
+LaTeX Warning: Citation `moloudi_coverage_2021' on page 14 undefined on input l
+ine 1157.
+
+
+LaTeX Warning: Reference `table:scenarios-parameters' on page 14 undefined on i
+nput line 1160.
+
+
+LaTeX Warning: Citation `3gpp_study_2021_38.875' on page 14 undefined on input 
+line 1164.
+
+
+LaTeX Warning: Citation `3gpp_study_2021_38.875' on page 14 undefined on input 
+line 1168.
+
+
+LaTeX Warning: Citation `3gpp_fl_2022_R1-2009293' on page 14 undefined on input
+ line 1168.
+
+
+LaTeX Warning: Citation `3gpp_study_nodate-3_38.830' on page 14 undefined on in
+put line 1178.
+
+
+LaTeX Warning: Citation `3gpp_study_nodate-2_38.802' on page 14 undefined on in
+put line 1192.
+
+
+LaTeX Warning: Reference `table:sls-assumption' on page 14 undefined on input l
+ine 1193.
+
+
+LaTeX Warning: Citation `3gpp_study_2021_38.875' on page 14 undefined on input 
+line 1194.
+
+
+LaTeX Warning: Reference `sec:4-complexity-reduction' on page 14 undefined on i
+nput line 1196.
+
+[14]
+c:/Users/saeed/Desktop/Survey/Saeed-Survey-3GPP-CIoT-RA/main-5-final.tex:1212: 
+Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.1212 \begin{itemize}[leftmargin=0,label={}]
+                                             
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/Users/saeed/Desktop/Survey/Saeed-Survey-3GPP-CIoT-RA/main-5-final.tex:1223: 
+Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.1223     \begin{itemize}[leftmargin=0,label={}]
+                                                 
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/Users/saeed/Desktop/Survey/Saeed-Survey-3GPP-CIoT-RA/main-5-final.tex:1238: 
+Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.1238     \begin{itemize}[leftmargin=0,label={}]
+                                                 
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/Users/saeed/Desktop/Survey/Saeed-Survey-3GPP-CIoT-RA/main-5-final.tex:1248: 
+Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.1248     \begin{itemize}[leftmargin=0,label={}]
+                                                 
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/Users/saeed/Desktop/Survey/Saeed-Survey-3GPP-CIoT-RA/main-5-final.tex:1261: 
+Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.1261     \begin{itemize}[leftmargin=0,label={}]
+                                                 
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Underfull \hbox (badness 3826) in paragraph at lines 1262--1263
+[]\OT1/ptm/m/n/8 Max mod-u-la-tion
+ []
+
+c:/Users/saeed/Desktop/Survey/Saeed-Survey-3GPP-CIoT-RA/main-5-final.tex:1275: 
+Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.1275     \begin{itemize}[leftmargin=0,label={}]
+                                                 
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/Users/saeed/Desktop/Survey/Saeed-Survey-3GPP-CIoT-RA/main-5-final.tex:1287: 
+Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.1287     \begin{itemize}[leftmargin=0,label={}]
+                                                 
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Overfull \hbox (9.87982pt too wide) in paragraph at lines 1207--1299
+ [][] 
+ []
+
+
+LaTeX Warning: Citation `3gpp_study_2021_38.875' on page 15 undefined on input 
+line 1302.
+
+
+LaTeX Warning: Reference `table:sls-assumption' on page 15 undefined on input l
+ine 1303.
+
+
+Underfull \hbox (badness 1997) in paragraph at lines 1315--1316
+\OT1/ptm/m/n/10 are mod-eled with full buffer traf-fic. Nokia claims
+ []
+
+
+LaTeX Warning: Citation `3gpp_study_2021_38.875' on page 15 undefined on input 
+line 1339.
+
+
+LaTeX Warning: Citation `saafi_enhancing_2022' on page 15 undefined on input li
+ne 1344.
+
+
+LaTeX Warning: Citation `tayyab_energy_2022' on page 15 undefined on input line
+ 1353.
+
+[15]
+
+LaTeX Warning: Citation `li_radio_2022' on page 16 undefined on input line 1359
+.
+
+
+LaTeX Warning: Citation `3gpp_study_nodate-4_38.804' on page 16 undefined on in
+put line 1361.
+
+
+LaTeX Warning: Citation `3gpp_revised_2022_RP-223544' on page 16 undefined on i
+nput line 1365.
+
+
+LaTeX Warning: Citation `sandeep_narayanan_kadan_veedu_redcap_2023' on page 16 
+undefined on input line 1366.
+
+
+LaTeX Warning: Citation `3gpp_revised_2022_RP-223544' on page 16 undefined on i
+nput line 1367.
+
+
+LaTeX Warning: Citation `3gpp_study_2022_38.865' on page 16 undefined on input 
+line 1368.
+
+
+LaTeX Warning: Citation `3gpp_revised_2022_RP-223544' on page 16 undefined on i
+nput line 1368.
+
+
+LaTeX Warning: Citation `3gpp_5gs_2022_SP-220803' on page 16 undefined on input
+ line 1370.
+
+
+LaTeX Warning: Citation `TR_38_875' on page 16 undefined on input line 1402.
+
+
+LaTeX Warning: Citation `R2-1912334' on page 16 undefined on input line 1402.
+
+No file main-5-final.bbl.
+[16] (main-5-final.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-03-14>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5898 strings out of 474424
+ 100344 string characters out of 5741739
+ 1959496 words of memory out of 5000000
+ 28145 multiletter control sequences out of 15000+600000
+ 603768 words of font info for 126 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 61i,12n,69p,747b,371s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/saeed/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmmi10.pfb><C:/Users/saeed/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmmi7.pfb><C:/Users/saeed/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmmi8.pfb><C:/Users/saeed/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmr10.pfb><C:/Users/saeed/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/saeed/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/saeed/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/saeed/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/sa
+eed/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/
+Users/saeed/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/
+Users/saeed/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:
+/Users/saeed/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:
+/Users/saeed/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main-5-final.pdf (16 pages, 1678288 bytes).
+PDF statistics:
+ 142 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+
